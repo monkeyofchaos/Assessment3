@@ -24,7 +24,8 @@ potentially add a save token function that can be accessed from a library of sav
 ----------------------------
 
 
-Currency app 
+Currency app ***
+
 Converts the exchange rate depending on the currency the user picks for the pickerview 
 
 
